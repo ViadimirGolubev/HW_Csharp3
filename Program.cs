@@ -7,7 +7,7 @@
 // 12821 -> да
 // 23432 -> да
 
-Console.WriteLine("Введите число");
+// Console.WriteLine("Введите число");
 
 
 
@@ -262,13 +262,13 @@ Console.WriteLine("Введите число");
 // 5 -> 1, 8, 27, 64, 125
 
 
-Console.WriteLine("Введите число");
-int num = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите число");
+// int num = Convert.ToInt32(Console.ReadLine());
 
-int count=1;
+// int count=1;
 
-while(num>=count)
-{
-    Console.WriteLine(Math.Pow(count,2));
-    count=count+1;
-}
+// while(num>=count)
+// {
+//     Console.Write($"{Math.Pow(count,3)}, ");
+//     count=count+1;
+// }
